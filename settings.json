@@ -8,7 +8,7 @@
   "server": {
     "ip": "xuisos234.aternos.me",
     "port": 31953,
-    "version": 1.21.10"
+    "version": "1.21.10"
   },
   "position": {
     "enabled": true,
