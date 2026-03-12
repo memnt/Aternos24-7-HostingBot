@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "suka glarg",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "xuisos234.aternos.me",
     "port": 31953,
-    "version": ""
+    "version": 1.21.10"
   },
   "position": {
     "enabled": true,
