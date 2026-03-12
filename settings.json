@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "suka glarg",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "xuisos234.aternos.me",
     "port": 31953,
-    "version": "1.21.10"
+    "version": ""
   },
   "position": {
     "enabled": true,
